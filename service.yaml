@@ -10,4 +10,4 @@ spec:
     run: argocd-kube
   type: LoadBalancer
   externalIPs:
-  - 10.178.0.10
+  - 10.178.0.11
